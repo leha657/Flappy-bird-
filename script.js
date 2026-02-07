@@ -1,5 +1,4 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/script.js b/script.js
+ 
 new file mode 100644
 index 0000000000000000000000000000000000000000..f2367e88222c94a67f87f40755240928f67a8fcc
 --- /dev/null
