@@ -1,5 +1,4 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/style.css b/style.css
+                     
 new file mode 100644
 index 0000000000000000000000000000000000000000..b9b224d4365f3bbc866d643c4dad2a2bee6a0f5a
 --- /dev/null
